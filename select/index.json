@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Mountain Top",
+  "base_artist": "Ellegarden",
+  "createdAt": "2026-02-14T14:05:30.937616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High on a Mountain Top",
+      "artist": "Loretta Lynn",
+      "has_synced": true,
+      "path": "select/01_High_on_a_Mountain_Top_Loretta_Lynn.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gold Heart Mountain Top Queen Directory",
+      "artist": "...And You Will Know Us By the Trail of Dead",
+      "has_synced": true,
+      "path": "select/02_Gold_Heart_Mountain_Top_Queen_Directory_...And_You_Will_Know_Us_By_the_Trail_of_Dead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High on a Mountain Top",
+      "artist": "Iron Butterfly",
+      "has_synced": false,
+      "path": "select/03_High_on_a_Mountain_Top_Iron_Butterfly.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Up Up Over the Mountain Top",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/04_Up_Up_Over_the_Mountain_Top_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Up, Up Over the Mountain Top",
+      "artist": "D‐A‐D",
+      "has_synced": false,
+      "path": "select/05_Up,_Up_Over_the_Mountain_Top_D‐A‐D.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love on a Mountain Top",
+      "artist": "Robert Knight",
+      "has_synced": false,
+      "path": "select/06_Love_on_a_Mountain_Top_Robert_Knight.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tennessee Mountain Top",
+      "artist": "Kid Rock",
+      "has_synced": false,
+      "path": "select/07_Tennessee_Mountain_Top_Kid_Rock.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Standing On The Mountain Top",
+      "artist": "DJ Khaled",
+      "has_synced": false,
+      "path": "select/08_Standing_On_The_Mountain_Top_DJ_Khaled.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mountain Top",
+      "artist": "Amy Grant",
+      "has_synced": true,
+      "path": "select/09_Mountain_Top_Amy_Grant.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love On A Mountain Top",
+      "artist": "Robert Knight",
+      "has_synced": true,
+      "path": "select/10_Love_On_A_Mountain_Top_Robert_Knight.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love On A Mountain Top",
+      "artist": "Sinitta",
+      "has_synced": false,
+      "path": "select/11_Love_On_A_Mountain_Top_Sinitta.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On Some Foggy Mountain Top",
+      "artist": "Bill Monroe",
+      "has_synced": true,
+      "path": "select/12_On_Some_Foggy_Mountain_Top_Bill_Monroe.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mountain Top",
+      "artist": "Built to Spill",
+      "has_synced": true,
+      "path": "select/13_Mountain_Top_Built_to_Spill.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Up, Up Over the Mountain Top",
+      "artist": "D-A-D",
+      "has_synced": true,
+      "path": "select/14_Up,_Up_Over_the_Mountain_Top_D-A-D.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "From the Everyday Mountain Top",
+      "artist": "Extol",
+      "has_synced": true,
+      "path": "select/15_From_the_Everyday_Mountain_Top_Extol.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Mountain Top",
+      "artist": "Lena Raine feat. Emi Evans",
+      "has_synced": true,
+      "path": "select/16_The_Mountain_Top_Lena_Raine_feat._Emi_Evans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mountain Top",
+      "artist": "ELLEGARDEN",
+      "has_synced": false,
+      "path": "select/pl_01_Mountain_Top_ELLEGARDEN.txt"
+    }
+  ]
+}
