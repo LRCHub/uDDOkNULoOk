@@ -1,0 +1,86 @@
+# Ellegarden – Mountain Top
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+It’s been a while since
+I last lost my head
+Days in the sun
+I found in sobriety
+Toggled it up and down
+in my brain
+Nothing like the monsters
+I grew up with
+I grew up with
+I’m signing it up and
+just slipping out
+from the pirate ship that
+I thought was mine
+So I buried a hatchet
+and one eye patch
+Now it all just seems
+like they lost me forever
+Give me a sign of falling water
+So I can be facing the wind
+one last time
+Give me the light of
+a lightning flicker
+Then I will be dancing with
+demons once more
+I’m the one
+who wants to burn out
+I’m the one
+who needs to find out
+I’m the one
+who craves the last match
+Bitter sister asked me
+“Mister, why do you think
+it’s so unbearable?”
+Barely answered in a whisper
+“I don’t know,
+it only gets emptier”
+“Gets emptier”
+I’m giving it up and
+just slipping out
+from the pirate ship that
+I thought was mine
+All the upshots of
+my peculiar mind
+Now it all just seems
+like they lost me forever
+Give me a sign of falling water
+So I can be facing
+the wind one last time
+Give me the light of
+a lightning flicker
+Then I will be dancing with
+demons once more
+I’m the one
+who wants to burn out
+I’m the one
+who needs to find out
+I’m the one
+who craves the last match
+Get back, get back down now
+I’m still all in one piece
+Get back, get back down now
+Things get tough from here on
+Every joy I had beside you
+Every path I walked beside you
+Every dream I dreamed beside you
+It all just seems
+like they lost me forever
+Give me a sign of falling water
+So I can be facing
+the wind one last time
+Give me the light
+of a lightning flicker
+Then I will be dancing with
+demons once more
+I’m the one
+who wants to burn out
+I’m the one
+who needs to find out
+I’m the one
+who craves the last match
+```
